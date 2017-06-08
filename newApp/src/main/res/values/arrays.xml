@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item >1|焦点</item>
+        <item >2|社会</item>
+        <item >3|财经</item>
+        <item >4|体育</item>
+        <item >5|科技</item>
+        <item >6|国际</item>
+        <item >7|娱乐</item>
+    </string-array>
+</resources>

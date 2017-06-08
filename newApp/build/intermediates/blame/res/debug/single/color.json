@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\title_bar_btn_color_selector.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\color\\title_bar_btn_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\color_light_gray.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\color\\color_light_gray.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\color_blue.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\color\\color_blue.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\category_bar_title.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\color\\category_bar_title.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\color_white_smoke.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\color\\color_white_smoke.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\color_black.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\color\\color_black.xml"
+    }
+]

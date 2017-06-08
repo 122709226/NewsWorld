@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+       <!-- -focused -->
+    <item android:state_focused="true"  android:state_enabled="true"  android:drawable="@drawable/live_bar_icon_gift_press"></item>
+    <!-- pressed -->
+    <item android:state_pressed="true"  android:state_enabled="true"  android:drawable="@drawable/live_bar_icon_gift_press"></item>
+    <item android:state_selected="true"  android:state_enabled="true"  android:drawable="@drawable/live_bar_icon_gift_press"></item>
+     <!-- normal -->
+    <item  android:drawable="@drawable/live_bar_icon_gift"></item>
+
+</selector>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/EditComment_RelativeLayout_parent"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/EditComment_RelativeLayout_scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:id="@+id/EditComment_RelativeLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#f9f9f9"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/edit_comment_popupwindow_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginLeft="15dp"
+                android:gravity="top"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/shape_edit_comment_background"
+                android:hint="写评论"
+                android:maxLength="500" />
+
+            <Button
+                android:id="@+id/edit_comment_popupwindow_button"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignRight="@+id/edit_comment_popupwindow_edittext"
+                android:layout_below="@+id/edit_comment_popupwindow_edittext"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/shape_deit_comment_announce_button_bg"
+                android:text="发表" />
+
+            <TextView
+                android:id="@+id/edit_comment_popupwindow_textView1"
+                android:layout_width="match_parent"
+                android:layout_height="9dp"
+                android:layout_below="@+id/edit_comment_popupwindow_button" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\loading_bar_bg.png",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\drawable-ldpi\\loading_bar_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\night_loading_bar_bg.png",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\drawable-ldpi\\night_loading_bar_bg.png"
+    }
+]

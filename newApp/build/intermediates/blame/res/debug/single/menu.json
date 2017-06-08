@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\news_contctivity.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\news_contctivity.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\home_fragment.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\home_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\comment_details.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\comment_details.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\loginng.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\loginng.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\picture_detail.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\picture_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\guide.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\guide.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\comment_edit_.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\comment_edit_.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\change_head_icon.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\change_head_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\menu\\register.xml"
+    }
+]

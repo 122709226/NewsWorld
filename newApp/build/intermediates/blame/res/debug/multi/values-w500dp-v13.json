@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\values-w500dp\\values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 54,
+                        "endOffset": 340
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">新闻视界</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="title_activity_welcome">新闻视界</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_home_fragment">Home_fragmentActivity</string>
+    <string name="title_activity_news_contctivity">NewsContctivity</string>
+    <string name="title_activity_comment_details">CommentDetailsActivity</string>
+    <string name="title_activity_loginng">LoginngActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_comment_edit_">Comment_edit_Activity</string>
+    <string name="title_activity_change_head_icon">ChangeHeadIconActivity</string>
+    <string name="title_activity_picture_detail">PictureDetailActivity</string>
+    <string name="JIangString">我们一定要成功</string>
+
+</resources>

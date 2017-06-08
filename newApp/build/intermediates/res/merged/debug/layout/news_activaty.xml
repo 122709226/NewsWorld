@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+ <RelativeLayout 
+        android:layout_width="match_parent"
+    	android:layout_height="45dp"
+    	android:background="@drawable/newslistbackgroundgood"
+        >
+     
+        <HorizontalScrollView 
+	    android:id="@+id/categorybar_scrollview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_centerVertical="true"
+        android:scrollbars="none">
+	    <LinearLayout 
+                android:id="@+id/category_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+        </LinearLayout>
+	</HorizontalScrollView>
+
+        	<com.example.newapp.util.CircleImageView
+            android:id="@+id/imageView_top_head"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="2.5dp"
+            android:src="@drawable/discuss_list_default_null" 
+            
+            >
+        </com.example.newapp.util.CircleImageView>
+    </RelativeLayout>
+        
+    
+   <com.handmark.pulltorefresh.library.PullToRefreshListView
+       xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/pull_refresh_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        android:scrollbars="none"
+        android:background="#FFE7E7E7"
+        ptr:ptrHeaderTextColor="#000000"  
+         />
+    
+
+</LinearLayout>

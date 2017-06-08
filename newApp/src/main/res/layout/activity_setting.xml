@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SettingActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/news_content_top_background"
+       >
+
+      <ImageView
+          android:id="@+id/image_seting_back"
+          android:layout_width="40dp"
+          android:layout_height="40dp"
+          android:layout_alignParentLeft="true"
+          android:layout_centerVertical="true"
+          android:src="@drawable/titlebar_btn_back" />
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_centerHorizontal="true"
+          android:layout_centerVertical="true"
+          android:gravity="center_horizontal"
+          android:text="设置"
+          android:textSize="22sp" />
+
+    </RelativeLayout>
+       <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/news_content_top_background"
+       >
+
+      <TextView
+          android:id="@+id/outof_loging"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentLeft="true"
+          android:layout_centerVertical="true"
+          android:layout_marginLeft="14dp"
+          android:clickable="true"
+          android:enabled="true"
+          android:text="退出登录"
+          android:textSize="18sp" />
+
+      </RelativeLayout>
+    
+
+    
+
+</LinearLayout>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/comment_item_background"
+        >
+
+        <TextView
+            android:id="@+id/comments_Write_time_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/comments_head_icon_imageView"
+            android:layout_alignLeft="@+id/comments_userNickName_textView"
+            android:textSize="12sp"
+            android:text="TextView" />
+
+        <com.example.newapp.util.CircleImageView
+            android:id="@+id/comments_head_icon_imageView"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="5dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/comment_item_head_icon"
+            android:src="@drawable/discuss_list_default_null" 
+            
+            >
+            
+        </com.example.newapp.util.CircleImageView>
+        
+        
+        <TextView
+            android:id="@+id/comments_userNickName_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/comments_head_icon_imageView"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/comments_head_icon_imageView"
+            android:textSize="16sp"
+            android:textColor="#0000CD"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/comments_commentsContent_textViewtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/comments_Write_time_textView"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/comments_Write_time_textView"
+            android:layout_marginTop="8dp"
+            android:text="11111111111111111111111111111111111111111111111111111111111111111111111111111111" />
+
+
+        <ImageView
+            android:id="@+id/comments_user_gender_imageView"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignTop="@+id/comments_userNickName_textView"
+            android:layout_toRightOf="@+id/comments_userNickName_textView"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/female_128" />
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout_selector_support_thumb_icon_imageView"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/comments_commentsContent_textViewtext"
+            android:layout_alignTop="@+id/comments_user_gender_imageView" >
+
+            <CheckBox
+                android:id="@+id/selector_support_thumb_icon_CheckBox"
+                style="@style/support_checkbox" 
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:drawableRight="@drawable/selector_support_thumb_icon"
+                android:checked="false"
+                android:textSize="12sp"
+                android:gravity="right|bottom"
+                android:text="1111111"
+                android:button="@null" />
+
+
+        </RelativeLayout>
+
+        
+
+    </RelativeLayout>
+
+</RelativeLayout>

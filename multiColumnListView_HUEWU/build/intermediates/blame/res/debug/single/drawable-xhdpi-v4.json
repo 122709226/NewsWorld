@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ad_button_015_refresh_down_arrow.png",
+        "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\drawable-xhdpi\\ad_button_015_refresh_down_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    }
+]

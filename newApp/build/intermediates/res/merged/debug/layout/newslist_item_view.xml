@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textDirection="ltr"
+        android:background="@drawable/fragment_host_background"
+        android:paddingBottom="2dp"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imageViewNewsList"
+            android:layout_width="85dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/findingnemo5" />
+        
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="70dp"
+             android:layout_marginTop="5dp"
+             android:layout_marginBottom="5dp"
+             android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:textSize="18sp"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:text="标题" />
+
+       <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:ellipsize="end"
+        android:text="摘要" />
+    
+       <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="20dp" >
+         <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="来源" />   
+        
+          <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        
+        android:layout_alignParentRight="true"
+        android:text="评论" />
+      </RelativeLayout>
+    </LinearLayout>
+        
+    </LinearLayout>
+
+
+
+</RelativeLayout>

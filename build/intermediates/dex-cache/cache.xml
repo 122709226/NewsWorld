@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\JIYOsNews\newApp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5d412b2b1311bb91f68f11dae847e1b7baef7ba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\JIYOsNews\newApp\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_fae507ba9b209d43eb077ff7aa297aec92209d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a870fb77aa27b840db1e70dcc794be9f2155ac5a\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_ecb1a68807fb85f5565528e0adf96ac347f068e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b44539af827cfa205195d7c2b7f5846aa75cbd96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26765e880de42c74da67f26febd337e59a3c2d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_55686660cfda5dd96b01ac631f2fbb75df70a290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\10494abf5090cf20d72c4c9ed9c4099ce773df38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="222d10966fa2a9f86846db69039c7e71eb8a90c2">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10\classes_260f51e7a7229b1e3d9d9365891cb27a997ab92e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a870fb77aa27b840db1e70dcc794be9f2155ac5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a31add2ce6af71ede3f85177e4a4fd7b1d32a8ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\JIYOsNews\newApp\libs\fastjson-1.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f675e9a1b2bf1224183005752a9214226e8aa8e">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.2.5_5e629e3019f73950f3cc8295353d19595f01e0f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\JIYOsNews\newApp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae1e072afa2bd7d63d38652eedd53628fad3d665">
+        <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_20d6cf2f67f9e00eeffbbdcbf16ec69ff8096879\classes.dex" />
+    </item>
+
+</items>

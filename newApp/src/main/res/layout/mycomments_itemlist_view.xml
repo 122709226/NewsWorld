@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myComments_RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/comment_item_background"
+        >
+
+        <TextView
+            android:id="@+id/myComments_Write_time_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/comments_head_icon_imageView"
+            android:layout_alignLeft="@+id/comments_userNickName_textView"
+            android:textSize="12sp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/myComments_commentsContent_textViewtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/myComments_Write_time_textView"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/myComments_Write_time_textView"
+            android:background="@android:color/background_light"
+            android:layout_marginTop="8dp"
+            android:text="11111111111111111" />
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout_selector_support_thumb_icon_imageView"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/myComments_commentsContent_textViewtext"
+             >
+
+            <CheckBox
+                android:id="@+id/mySelector_support_thumb_icon_CheckBox"
+                style="@style/support_checkbox" 
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/selector_support_thumb_icon"
+                android:checked="false"
+                android:textSize="12sp"
+                android:textColor="#ff0d19"
+                android:textStyle="bold"
+                android:gravity="right|bottom"
+                android:text="1111111"
+                android:button="@null"
+                 />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView_myCommentsNewsTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:layout_below="@+id/myComments_commentsContent_textViewtext"
+            android:textSize="18sp"
+            android:textColor="@android:color/holo_blue_light"
+            android:text="New Text"/>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

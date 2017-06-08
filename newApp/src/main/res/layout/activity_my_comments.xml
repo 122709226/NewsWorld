@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_MyComments_View_RelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.newapp.MyComments">
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout_up_toll_bar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/news_content_top_background"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/Comment_image_itlebar_btn_myComments_back"
+            android:layout_width="40dp"
+            android:layout_height="38dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="left"
+            android:clickable="true"
+            android:src="@drawable/titlebar_btn_back" />
+
+        <ImageView
+            android:id="@+id/Comment_iimageView2"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:gravity="right"
+           />
+        <com.example.newapp.util.CircleImageView
+            android:id="@+id/imageView_topenter_head"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal|center_vertical"
+            android:textAlignment="center"
+            android:layout_marginTop="2.5dp"
+            android:src="@drawable/discuss_list_default_null"
+
+            >
+        </com.example.newapp.util.CircleImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="我的"
+            android:id="@+id/mineCommentLeft"
+            android:layout_centerVertical="true"
+            android:textSize="16sp"
+            android:layout_toLeftOf="@+id/imageView_topenter_head"
+            android:layout_toStartOf="@+id/imageView_topenter_head" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="评论"
+            android:id="@+id/mineCommentright"
+            android:layout_alignTop="@+id/mineCommentLeft"
+            android:textSize="16sp"
+            android:layout_toRightOf="@+id/imageView_topenter_head"
+            android:layout_toEndOf="@+id/imageView_topenter_head" />
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/RelativeLayout_up_toll_bar"
+        android:background="@drawable/news_content_top_background"
+        android:orientation="vertical" >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            xmlns:ptr="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/my_comments_pull_refresh_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#FFE7E7E7"
+            android:cacheColorHint="#00000000"
+            android:divider="@null"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:scrollbars="none"
+            android:smoothScrollbar="true"
+            ptr:ptrHeaderTextColor="#000000" />
+    </LinearLayout>
+</RelativeLayout>

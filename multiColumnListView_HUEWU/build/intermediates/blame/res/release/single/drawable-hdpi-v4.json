@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\updating_spinner.xml",
+        "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\drawable-hdpi\\updating_spinner.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\updating.png",
+        "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\drawable-hdpi\\updating.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow.png",
+        "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ad_button_015_refresh_down_arrow.png",
+        "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\drawable-hdpi\\ad_button_015_refresh_down_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    }
+]

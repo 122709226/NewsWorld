@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edit_comment_reply_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="@drawable/shape_edit_realcomment_background"
+    android:orientation="vertical" >
+     <!--真的回复帖子按钮 -->
+    <LinearLayout 
+        android:id="@+id/news_reply_edit_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        
+        >
+        <EditText 
+            android:id="@+id/news_reply_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:maxLength="500"
+            android:background="@drawable/shape_edit_comment_background"
+            android:hint="写评论"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:id="@+id/news_reply_post"
+                android:layout_width="wrap_content"
+                android:layout_height="38dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/shape_deit_comment_announce_button_bg"
+                android:text="发表" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+    <!-- 假的回复帖子按钮 -->
+
+</LinearLayout>

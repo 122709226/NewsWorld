@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 51,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 51,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 11046,
+                    "endColumn": 63,
+                    "endOffset": 11105
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 9441,
+                        "endColumn": 63,
+                        "endOffset": 9500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 11110,
+                    "endColumn": 63,
+                    "endOffset": 11169
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 9505,
+                        "endColumn": 63,
+                        "endOffset": 9564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 11174,
+                    "endColumn": 54,
+                    "endOffset": 11224
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 9569,
+                        "endColumn": 54,
+                        "endOffset": 9619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 11229,
+                    "endColumn": 56,
+                    "endOffset": 11281
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 9624,
+                        "endColumn": 56,
+                        "endOffset": 9676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 11286,
+                    "endColumn": 54,
+                    "endOffset": 11336
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 9681,
+                        "endColumn": 54,
+                        "endOffset": 9731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 11341,
+                    "endColumn": 37,
+                    "endOffset": 11374
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1955,
+                        "endColumn": 37,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 11379,
+                    "endColumn": 42,
+                    "endOffset": 11417
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 9736,
+                        "endColumn": 42,
+                        "endOffset": 9774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 11422,
+                    "endColumn": 39,
+                    "endOffset": 11457
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 39,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 11462,
+                    "endColumn": 36,
+                    "endOffset": 11494
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 36,
+                        "endOffset": 2065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 11499,
+                    "endColumn": 41,
+                    "endOffset": 11536
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 9779,
+                        "endColumn": 41,
+                        "endOffset": 9816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 11541,
+                    "endColumn": 58,
+                    "endOffset": 11595
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 9821,
+                        "endColumn": 58,
+                        "endOffset": 9875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 11600,
+                    "endColumn": 47,
+                    "endOffset": 11643
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 9880,
+                        "endColumn": 47,
+                        "endOffset": 9923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 11648,
+                    "endColumn": 63,
+                    "endOffset": 11707
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 9928,
+                        "endColumn": 63,
+                        "endOffset": 9987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 11712,
+                    "endColumn": 69,
+                    "endOffset": 11777
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 9992,
+                        "endColumn": 69,
+                        "endOffset": 10057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 11782,
+                    "endColumn": 101,
+                    "endOffset": 11879
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2070,
+                        "endColumn": 101,
+                        "endOffset": 2167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 11884,
+                    "endColumn": 113,
+                    "endOffset": 11993
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2172,
+                        "endColumn": 113,
+                        "endOffset": 2281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 11998,
+                    "endColumn": 107,
+                    "endOffset": 12101
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2286,
+                        "endColumn": 107,
+                        "endOffset": 2389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 12106,
+                    "endColumn": 71,
+                    "endOffset": 12173
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2394,
+                        "endColumn": 71,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 12178,
+                    "endColumn": 69,
+                    "endOffset": 12243
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 69,
+                        "endOffset": 2531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 12248,
+                    "endColumn": 77,
+                    "endOffset": 12321
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2536,
+                        "endColumn": 77,
+                        "endOffset": 2609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 12326,
+                    "endColumn": 57,
+                    "endOffset": 12379
+                },
+                "from": {
+                    "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 10062,
+                        "endColumn": 57,
+                        "endOffset": 10115
+                    }
+                }
+            }
+        ]
+    }
+]

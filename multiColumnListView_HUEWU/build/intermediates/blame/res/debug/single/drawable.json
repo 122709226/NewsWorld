@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

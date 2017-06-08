@@ -1,0 +1,23 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.2'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+            //从中央库里面获取依赖
+            //mavenCentral()
+            //或者使用指定的本地maven 库
+            maven{
+                url "file://G:/apache-maven-3.3.9/myLocalRepo"
+            }
+            //或者使用指定的远程maven库
+
+    }
+}

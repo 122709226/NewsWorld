@@ -1,0 +1,150 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_comment_details_View_RelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CommentDetailsActivity" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/news_content_top_background"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/Comment_image_itlebar_btn_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="left"
+            android:clickable="true"
+            android:src="@drawable/titlebar_btn_back" />
+
+        <ImageView
+            android:id="@+id/Comment_iimageView2"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:gravity="right"
+            android:src="@drawable/titlebar_btn_more" />
+
+        <TextView
+            android:id="@+id/Comment_itopCentaiTitle"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="网友评论"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/Part_news_DetailsActivity_LinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/RelativeLayout1"
+        android:background="@drawable/comment_detail_item_noselected_bg"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/Comment_itextTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="标题"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" >
+
+            <TextView
+                android:id="@+id/Comment_itextAuthor"
+                android:layout_width="wrap_content"
+                android:layout_height="17dp"
+                android:layout_marginTop="5dp"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="来源" />
+
+            <TextView
+                android:id="@+id/Comment_itextCommentNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="17dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="5dp"
+                android:text="评论" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/activity_comment_details_scrollView"
+        android:layout_below="@+id/Part_news_DetailsActivity_LinearLayout"
+        android:background="@drawable/news_content_top_background"
+        android:orientation="vertical" >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            xmlns:ptr="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/comments_pull_refresh_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#FFE7E7E7"
+            android:cacheColorHint="#00000000"
+            android:divider="@null"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:scrollbars="none"
+            android:smoothScrollbar="true"
+            ptr:ptrHeaderTextColor="#000000" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/activity_comment_details_scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <RelativeLayout
+            android:id="@+id/feckless_comment_relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/news_comment_background3" >
+
+            <Button
+                android:id="@+id/Comment_fale_editComment_button"
+                android:layout_width="220dp"
+                android:layout_height="35dp"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/for_comment_litleimage_background_shape"
+                android:gravity="left|center_vertical"
+                android:hint="我也说两句"
+                android:textColor="@color/color_blue"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/Comment_image_backto_content"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignBottom="@+id/Comment_fale_editComment_button"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/shape_deit_comment_announce_button_bg"
+                android:text="原文" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

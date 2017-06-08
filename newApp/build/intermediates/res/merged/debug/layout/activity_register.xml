@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9CD5E2"
+    android:orientation="vertical"
+    tools:context=".LoginngActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/regist_top_tip"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/rigist_count"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/longing_edittext_bg"
+            android:hint="用户名：手机号码格式"
+            android:inputType="textWebEmailAddress"
+            android:singleLine="true"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/button_regist"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_alignLeft="@+id/regist_username"
+            android:layout_below="@+id/regist_username"
+            android:layout_marginTop="125dp"
+            android:background="@drawable/loging_button_bg"
+            android:text="注册" />
+
+
+        <EditText
+            android:id="@+id/regist_password"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_alignLeft="@+id/rigist_count"
+            android:layout_below="@+id/regist_username"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/longing_edittext_bg"
+            android:hint="密码 字母开头5~15字母数字组合"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:textSize="13sp" />
+
+        <EditText
+            android:id="@+id/regist_username"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_alignLeft="@+id/regist_password"
+            android:layout_below="@+id/rigist_count"
+            android:layout_marginTop="31dp"
+            android:background="@drawable/longing_edittext_bg"
+            android:hint="昵称"
+            android:maxLines="1"
+            android:textSize="13sp">
+
+        </EditText>
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="180dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/regist_password"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="男" />
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginLeft="50dp"
+                android:text="女" />
+
+        </RadioGroup>
+
+    </RelativeLayout>
+
+</LinearLayout>

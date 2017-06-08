@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JIYOsNews.iml" filepath="$PROJECT_DIR$/JIYOsNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiColumnListView_HUEWU/multiColumnListView_HUEWU.iml" filepath="$PROJECT_DIR$/multiColumnListView_HUEWU/multiColumnListView_HUEWU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newApp/newApp.iml" filepath="$PROJECT_DIR$/newApp/newApp.iml" />
+    </modules>
+  </component>
+</project>

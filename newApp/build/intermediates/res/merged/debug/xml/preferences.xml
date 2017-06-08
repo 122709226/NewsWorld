@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"  
+        android:orderingFromXml="true"
+        >
+        
+        <PreferenceCategory 
+        android:enabled="true"
+        android:selectable="true"
+        android:key="pref_key_storage_settings">
+            
+        <CheckBoxPreference
+            android:key="pref_key_auto_delete"
+            android:summary="pref_summary_auto_delete"
+            android:title="pref_title_auto_delete"
+            android:icon="@drawable/bug1001"
+            android:defaultValue="false"/>
+
+        <SwitchPreference 
+            android:key="9529"
+            android:title="超级大功能"
+           android:summary="888865"
+           android:icon="@drawable/bug1001"
+           android:order="1"
+           
+            android:disableDependentsState="true"
+            android:summaryOn="你开启可这个功能"
+            android:summaryOff="你关闭了这个功能"
+            android:switchTextOn="打开"
+            android:switchTextOff="关闭"
+            
+            />
+        
+        <CheckBoxPreference 
+        
+         android:key="dd顶顶顶顶"
+         android:title="是的发送到发送到发"
+         android:summaryOn="@android:drawable/checkbox_off_background"
+         android:summaryOff="@android:drawable/checkbox_on_background"
+         />
+
+        
+
+         <PreferenceScreen
+            android:key="second_preferencescreen"
+            android:title="WiFi settings">
+        <CheckBoxPreference
+                android:key="prefer wifi"
+                android:title="Prefer WiFi" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+        
+    </PreferenceScreen>
