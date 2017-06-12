@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.newapp"
+    package="com.example.newsapp"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -16,21 +16,16 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
-        android:name=".NewsApplication"
+        android:name="com.example.newsapp.NewsApplication"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
+        <activity android:name="com.example.newsapp.activity.MainActivity"></activity>
         <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".GuideActivity"
+            android:name="com.example.newsapp.activity.GuideActivity"
             android:label="@string/title_activity_guide"></activity>
-        <activity
-            android:name=".WelcomeActivity"
-            android:label="@string/title_activity_welcome"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        <activity android:name="com.example.newsapp.activity.WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -38,26 +33,47 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".NewsContentctivity"
+            android:name="com.example.newsapp.activity.NewsContentctivity"
             android:label="@string/title_activity_news_contctivity"
             android:windowSoftInputMode="adjustResize"></activity>
         <activity
-            android:name=".CommentDetailsActivity"
+            android:name="com.example.newsapp.activity.CommentDetailsActivity"
             android:label="@string/title_activity_comment_details"
             android:windowSoftInputMode="adjustResize"></activity>
         <activity
-            android:name=".LoginngActivity"
+            android:name="com.example.newsapp.activity.LoginngActivity"
             android:label="@string/title_activity_loginng"></activity>
         <activity
-            android:name=".RegisterActivity"
+            android:name="com.example.newsapp.activity.RegisterActivity"
             android:label="@string/title_activity_register"></activity>
         <activity
-            android:name=".SettingActivity"
+            android:name="com.example.newsapp.activity.SettingActivity"
             android:label="@string/title_activity_setting"></activity>
         <activity
-            android:name=".PictureDetailActivity"
+            android:name="com.example.newsapp.activity.PictureDetailActivity"
             android:label="@string/title_activity_picture_detail"></activity>
-        <activity android:name=".MyComments"></activity>
+        <activity android:name="com.example.newsapp.activity.MyComments"></activity>
+
+
+
+
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:noHistory="true"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="tencent*********" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.tencent.connect.common.AssistActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            />
+
 
         <meta-data
             android:name="debug"

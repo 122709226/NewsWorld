@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#9CD5E2"
     android:orientation="vertical"
-    tools:context=".LoginngActivity" >
+    tools:context=".activity.LoginngActivity" >
 
     <LinearLayout
         android:layout_width="match_parent"

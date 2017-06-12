@@ -1,3 +1,3 @@
-include ':library'
+include ':library', 'PagerSlidingTabStrip-1.0.1:library', ':PagerSlidingTabStrip'
 include ':multiColumnListView_HUEWU'
 include ':newApp'

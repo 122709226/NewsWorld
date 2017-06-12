@@ -4,6 +4,10 @@
         "source": "E:\\Android\\JIYOsNews\\newApp\\src\\main\\res\\color\\title_bar_btn_color_selector.xml"
     },
     {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
@@ -46,6 +50,14 @@
     {
         "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\b44539af827cfa205195d7c2b7f5846aa75cbd96\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\color\\category_bar_title.xml",

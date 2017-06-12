@@ -1,5 +1,17 @@
 [
     {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
         "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\indicator_arrow.png"
     },
@@ -8,11 +20,23 @@
         "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
     },
     {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
         "source": "E:\\Android\\JIYOsNews\\library\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
     },
     {
         "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ad_button_015_refresh_down_arrow.png",
         "source": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\ad_button_015_refresh_down_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\JIYOsNews\\newApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\42ba332d74aea7684ac2be619ab0e2450340620e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     }
 ]

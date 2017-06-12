@@ -9,4 +9,13 @@
         <item >6|国际</item>
         <item >7|娱乐</item>
     </string-array>
+    <string-array name="news_categories">
+        <item >焦点</item>
+        <item >社会</item>
+        <item >财经</item>
+        <item >体育</item>
+        <item >科技</item>
+        <item >国际</item>
+        <item >娱乐</item>
+    </string-array>
 </resources>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.newapp"
+    package="com.example.newsapp"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="19"
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -15,21 +15,16 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
-        android:name="com.example.newapp.NewsApplication"
+        android:name="com.example.newsapp.NewsApplication"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.newsapp.activity.MainActivity" />
         <activity
-            android:name="com.example.newapp.MainActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="com.example.newapp.GuideActivity"
+            android:name="com.example.newsapp.activity.GuideActivity"
             android:label="@string/title_activity_guide" />
-        <activity
-            android:name="com.example.newapp.WelcomeActivity"
-            android:label="@string/title_activity_welcome"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity android:name="com.example.newsapp.activity.WelcomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -37,26 +32,26 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.newapp.NewsContentctivity"
+            android:name="com.example.newsapp.activity.NewsContentctivity"
             android:label="@string/title_activity_news_contctivity"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.example.newapp.CommentDetailsActivity"
+            android:name="com.example.newsapp.activity.CommentDetailsActivity"
             android:label="@string/title_activity_comment_details"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.example.newapp.LoginngActivity"
+            android:name="com.example.newsapp.activity.LoginngActivity"
             android:label="@string/title_activity_loginng" />
         <activity
-            android:name="com.example.newapp.RegisterActivity"
+            android:name="com.example.newsapp.activity.RegisterActivity"
             android:label="@string/title_activity_register" />
         <activity
-            android:name="com.example.newapp.SettingActivity"
+            android:name="com.example.newsapp.activity.SettingActivity"
             android:label="@string/title_activity_setting" />
         <activity
-            android:name="com.example.newapp.PictureDetailActivity"
+            android:name="com.example.newsapp.activity.PictureDetailActivity"
             android:label="@string/title_activity_picture_detail" />
-        <activity android:name="com.example.newapp.MyComments" />
+        <activity android:name="com.example.newsapp.activity.MyComments" />
 
         <meta-data
             android:name="debug"
@@ -65,6 +60,28 @@
         <activity android:name="com.huewu.pla.sample.SampleActivity" >
         </activity>
         <activity android:name="com.huewu.pla.sample.PullToRefreshSampleActivity" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>

@@ -4,7 +4,7 @@
     android:id="@+id/activity_MyComments_View_RelativeLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.newapp.MyComments">
+    tools:context="com.example.newsapp.activity.MyComments">
 
     <RelativeLayout
         android:id="@+id/RelativeLayout_up_toll_bar"
@@ -34,7 +34,7 @@
             android:layout_alignParentTop="true"
             android:gravity="right"
            />
-        <com.example.newapp.util.CircleImageView
+        <com.example.newsapp.util.CircleImageView
             android:id="@+id/imageView_topenter_head"
             android:layout_width="40dp"
             android:layout_height="40dp"
@@ -46,7 +46,7 @@
             android:src="@drawable/discuss_list_default_null"
 
             >
-        </com.example.newapp.util.CircleImageView>
+        </com.example.newsapp.util.CircleImageView>
 
         <TextView
             android:layout_width="wrap_content"

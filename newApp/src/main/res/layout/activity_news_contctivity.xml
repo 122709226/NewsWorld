@@ -3,7 +3,7 @@
     android:id="@+id/NewsContentctivity_Root_mainRelativeLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".NewsContentctivity" >
+    tools:context=".activity.NewsContentctivity" >
 
     <GridLayout
         android:id="@+id/GridLayout1"

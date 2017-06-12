@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:2:1-67:12
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:2:1-68:12
 	package
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:3:5-33
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml
 		INJECTED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml
 	android:versionName
@@ -19,11 +19,18 @@ uses-sdk
 ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:7:5-9:41
 MERGED from [JIYOsNews:multiColumnListView_HUEWU:unspecified] E:\Android\JIYOsNews\multiColumnListView_HUEWU\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [JIYOsNews:library:unspecified] E:\Android\JIYOsNews\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:40
+MERGED from [JIYOsNews:PagerSlidingTabStrip:unspecified] E:\Android\JIYOsNews\PagerSlidingTabStrip\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
 MERGED from [com.mostafagazar:customshapeimageview:1.0.4] C:\Users\Administrator\.android\build-cache\10494abf5090cf20d72c4c9ed9c4099ce773df38\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\Administrator\.android\build-cache\73ef9568696239fc5d65754a8bbe5879c3e38e45\output\AndroidManifest.xml:2:5-72
 MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Administrator\.android\build-cache\b44539af827cfa205195d7c2b7f5846aa75cbd96\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Administrator\.android\build-cache\a870fb77aa27b840db1e70dcc794be9f2155ac5a\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Administrator\.android\build-cache\f1cd844ddae3df8edfa3a8f58dd2967b209234af\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.4] C:\Users\Administrator\.android\build-cache\2a77bb2cea436fbb78a080b58f691ab601d19e72\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Administrator\.android\build-cache\42ba332d74aea7684ac2be619ab0e2450340620e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Administrator\.android\build-cache\118d08bb6aabb80341b3bff5301dafeadc410e85\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Administrator\.android\build-cache\d668d69c14ad61dfaa2e9f6325eae5ed0559c690\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Administrator\.android\build-cache\d4463ce8c646d419d9dafa19c81472822dc6c16b\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\Administrator\.android\build-cache\d4463ce8c646d419d9dafa19c81472822dc6c16b\output\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml
@@ -53,14 +60,18 @@ ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:16:5-75
 	android:name
 		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:16:22-72
 application
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:18:5-65:19
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:18:5-66:19
 MERGED from [JIYOsNews:multiColumnListView_HUEWU:unspecified] E:\Android\JIYOsNews\multiColumnListView_HUEWU\build\intermediates\bundles\default\AndroidManifest.xml:11:5-18:19
 MERGED from [JIYOsNews:library:unspecified] E:\Android\JIYOsNews\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [JIYOsNews:PagerSlidingTabStrip:unspecified] E:\Android\JIYOsNews\PagerSlidingTabStrip\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
 MERGED from [com.mostafagazar:customshapeimageview:1.0.4] C:\Users\Administrator\.android\build-cache\10494abf5090cf20d72c4c9ed9c4099ce773df38\output\AndroidManifest.xml:11:5-20
-MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\Administrator\.android\build-cache\73ef9568696239fc5d65754a8bbe5879c3e38e45\output\AndroidManifest.xml:4:5-19
 MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Administrator\.android\build-cache\b44539af827cfa205195d7c2b7f5846aa75cbd96\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Administrator\.android\build-cache\a870fb77aa27b840db1e70dcc794be9f2155ac5a\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Administrator\.android\build-cache\f1cd844ddae3df8edfa3a8f58dd2967b209234af\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Administrator\.android\build-cache\42ba332d74aea7684ac2be619ab0e2450340620e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Administrator\.android\build-cache\118d08bb6aabb80341b3bff5301dafeadc410e85\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Administrator\.android\build-cache\d668d69c14ad61dfaa2e9f6325eae5ed0559c690\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Administrator\.android\build-cache\d4463ce8c646d419d9dafa19c81472822dc6c16b\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:22:9-41
 	android:allowBackup
@@ -70,87 +81,81 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Us
 	android:theme
 		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:23:9-40
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:19:9-40
-activity#com.example.newapp.MainActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:24:9-26:57
-	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:26:13-45
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:19:9-59
+activity#com.example.newsapp.activity.MainActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:24:9-87
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:25:13-41
-activity#com.example.newapp.GuideActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:27:9-29:69
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:24:19-75
+activity#com.example.newsapp.activity.GuideActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:25:9-27:69
 	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:29:13-57
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:27:13-57
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:28:13-42
-activity#com.example.newapp.WelcomeActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:30:9-39:20
-	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:32:13-59
-	android:theme
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:33:13-71
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:26:13-70
+activity#com.example.newsapp.activity.WelcomeActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:31:13-44
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:28:19-78
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:34:13-38:29
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:35:17-69
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:35:25-66
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:37:17-77
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:37:27-74
-activity#com.example.newapp.NewsContentctivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:40:9-43:67
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.newsapp.activity.NewsContentctivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:35:9-38:67
 	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:42:13-68
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:37:13-68
 	android:windowSoftInputMode
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:43:13-55
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:38:13-55
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:41:13-47
-activity#com.example.newapp.CommentDetailsActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:44:9-47:67
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:36:13-75
+activity#com.example.newsapp.activity.CommentDetailsActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:39:9-42:67
 	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:46:13-67
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:41:13-67
 	android:windowSoftInputMode
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:47:13-55
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:42:13-55
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:45:13-51
-activity#com.example.newapp.LoginngActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:48:9-50:71
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:40:13-79
+activity#com.example.newsapp.activity.LoginngActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:43:9-45:71
 	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:50:13-59
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:45:13-59
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:49:13-44
-activity#com.example.newapp.RegisterActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:51:9-53:72
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:44:13-72
+activity#com.example.newsapp.activity.RegisterActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:46:9-48:72
 	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:53:13-60
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:48:13-60
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:52:13-45
-activity#com.example.newapp.SettingActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:54:9-56:71
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:47:13-73
+activity#com.example.newsapp.activity.SettingActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:49:9-51:71
 	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:56:13-59
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:51:13-59
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:55:13-44
-activity#com.example.newapp.PictureDetailActivity
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:57:9-59:78
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:50:13-72
+activity#com.example.newsapp.activity.PictureDetailActivity
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:52:9-54:78
 	android:label
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:59:13-66
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:54:13-66
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:58:13-50
-activity#com.example.newapp.MyComments
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:60:9-57
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:53:13-78
+activity#com.example.newsapp.activity.MyComments
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:55:9-85
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:60:19-45
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:55:19-73
 meta-data#debug
-ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:62:9-64:36
+ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:63:9-65:36
 	android:value
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:64:13-33
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:65:13-33
 	android:name
-		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:63:13-33
+		ADDED from E:\Android\JIYOsNews\newApp\src\main\AndroidManifest.xml:64:13-33
 activity#com.huewu.pla.sample.SampleActivity
 ADDED from [JIYOsNews:multiColumnListView_HUEWU:unspecified] E:\Android\JIYOsNews\multiColumnListView_HUEWU\build\intermediates\bundles\default\AndroidManifest.xml:15:9-16:20
 	android:name
@@ -159,3 +164,35 @@ activity#com.huewu.pla.sample.PullToRefreshSampleActivity
 ADDED from [JIYOsNews:multiColumnListView_HUEWU:unspecified] E:\Android\JIYOsNews\multiColumnListView_HUEWU\build\intermediates\bundles\default\AndroidManifest.xml:17:9-85
 	android:name
 		ADDED from [JIYOsNews:multiColumnListView_HUEWU:unspecified] E:\Android\JIYOsNews\multiColumnListView_HUEWU\build\intermediates\bundles\default\AndroidManifest.xml:17:19-82
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Administrator\.android\build-cache\a9d00ff3099b74a62aba25cbfdfd9d8198c7f342\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Administrator\.android\build-cache\42ba332d74aea7684ac2be619ab0e2450340620e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Administrator\.android\build-cache\42ba332d74aea7684ac2be619ab0e2450340620e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Administrator\.android\build-cache\42ba332d74aea7684ac2be619ab0e2450340620e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Administrator\.android\build-cache\42ba332d74aea7684ac2be619ab0e2450340620e\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Administrator\.android\build-cache\d668d69c14ad61dfaa2e9f6325eae5ed0559c690\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Administrator\.android\build-cache\d668d69c14ad61dfaa2e9f6325eae5ed0559c690\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Administrator\.android\build-cache\d668d69c14ad61dfaa2e9f6325eae5ed0559c690\output\AndroidManifest.xml:20:20-65

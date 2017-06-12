@@ -27,7 +27,7 @@
         </LinearLayout>
 	</HorizontalScrollView>
 
-        	<com.example.newapp.util.CircleImageView
+        	<com.example.newsapp.util.CircleImageView
             android:id="@+id/imageView_top_head"
             android:layout_width="40dp"
             android:layout_height="40dp"
@@ -37,7 +37,7 @@
             android:src="@drawable/discuss_list_default_null" 
             
             >
-        </com.example.newapp.util.CircleImageView>
+        </com.example.newsapp.util.CircleImageView>
     </RelativeLayout>
         
     

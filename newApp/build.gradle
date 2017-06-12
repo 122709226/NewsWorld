@@ -4,10 +4,9 @@ android {
     //compileSdkVersion 19
     compileSdkVersion 23
     buildToolsVersion "25.0.0"
-
     defaultConfig {
-        applicationId "com.example.newapp"
-        minSdkVersion 15
+        applicationId 'com.example.newsapp'
+        minSdkVersion 19
         targetSdkVersion 23
     }
 /*混淆设置
@@ -20,33 +19,29 @@ android {
     }
     sourceSets { main { jni.srcDirs = ['src/main/jni', 'src/main/test/'] } }
     useLibrary 'org.apache.http.legacy'
+    productFlavors {
+    }
 }
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs') //自动导包
     compile project(':library')
     compile project(':multiColumnListView_HUEWU')
+    compile project(':PagerSlidingTabStrip')
     compile files('libs/fastjson-1.2.5.jar')
     compile files('libs/universal-image-loader-1.9.5.jar')
-
-    compile 'com.mostafagazar:customshapeimageview:1.0.4'
-    compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
     //compile 'com.android.support:support-v4:19.1.0'
     //compile 'com.android.support:appcompat-v7:19.1.0'
     //compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.3'
-    compile 'com.android.support:support-v4:23.1.0'
-    compile 'com.android.support:appcompat-v7:23.1.0'
-
-
-    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
-
-    testCompile 'junit:junit:4.12'
-
     //单文件依赖
     //compile files('libs/android-support-v4.jar')
     //某个文件夹下面全部依赖
     //compile fileTree(dir: 'libs', include: '*.jar')
-
-    androidTestCompile 'org.testng:testng:6.9.6'
+    compile 'com.mostafagazar:customshapeimageview:1.0.4'
+    compile 'com.android.support:support-v4:23.1.0'
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
+    compile 'com.google.android.gms:play-services-auth:10.2.4'
+    testCompile 'junit:junit:4.12'
     androidTestCompile 'org.testng:testng:6.9.6'
 }
 

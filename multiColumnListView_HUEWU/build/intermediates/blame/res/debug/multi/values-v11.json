@@ -7,8 +7,9 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 62,
-                    "endOffset": 113
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 175
                 },
                 "from": {
                     "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\values-v11\\styles.xml",
@@ -16,8 +17,9 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endColumn": 63,
-                        "endOffset": 76
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 137
                     }
                 }
             }

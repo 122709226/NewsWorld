@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="ae1e072afa2bd7d63d38652eedd53628fad3d665">
+        sha1="585d698d6b186b19a29fbbb0d65f0e6b2f1022f9">
         <dex dex="E:\Android\JIYOsNews\newApp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_20d6cf2f67f9e00eeffbbdcbf16ec69ff8096879\classes.dex" />
     </item>
 

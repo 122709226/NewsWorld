@@ -426,8 +426,9 @@
                     "startLine": 210,
                     "startColumn": 4,
                     "startOffset": 12326,
-                    "endColumn": 57,
-                    "endOffset": 12379
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 12446
                 },
                 "from": {
                     "file": "E:\\Android\\JIYOsNews\\multiColumnListView_HUEWU\\src\\main\\res\\values\\styles.xml",
@@ -435,8 +436,9 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endColumn": 58,
-                        "endOffset": 71
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 138
                     }
                 }
             }

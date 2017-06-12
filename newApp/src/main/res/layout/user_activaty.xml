@@ -60,12 +60,12 @@
                 android:padding="0dp"
                 android:rowCount="2">
 
-                <com.example.newapp.util.CircleImageView
+                <com.example.newsapp.util.CircleImageView
                     android:id="@+id/imageHeadView"
                     android:layout_width="106dp"
                     android:layout_height="106dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/setting_head_icon"></com.example.newapp.util.CircleImageView>
+                    android:src="@drawable/setting_head_icon"></com.example.newsapp.util.CircleImageView>
 
                 <TextView
                     android:id="@+id/textView_head"

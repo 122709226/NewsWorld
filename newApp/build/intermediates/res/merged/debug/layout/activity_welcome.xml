@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     
     android:background="@drawable/guide_main"
-    tools:context=".WelcomeActivity" >
+    tools:context=".activity.WelcomeActivity" >
 
 
 </RelativeLayout>

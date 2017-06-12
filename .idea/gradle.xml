@@ -9,6 +9,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip-1.0.1" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip-1.0.1/library" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/multiColumnListView_HUEWU" />
             <option value="$PROJECT_DIR$/newApp" />

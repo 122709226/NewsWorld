@@ -23,7 +23,7 @@
             android:textSize="12sp"
             android:text="TextView" />
 
-        <com.example.newapp.util.CircleImageView
+        <com.example.newsapp.util.CircleImageView
             android:id="@+id/comments_head_icon_imageView"
             android:layout_width="40dp"
             android:layout_height="40dp"
@@ -36,7 +36,7 @@
             
             >
             
-        </com.example.newapp.util.CircleImageView>
+        </com.example.newsapp.util.CircleImageView>
         
         
         <TextView

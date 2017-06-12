@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.example.newsapp.util.CircleImageView
+            android:id="@+id/imageView_top_head"
+            android:layout_width="43dp"
+            android:layout_height="43dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginBottom="2dp"
+            android:background="@android:color/white"
+            android:src="@drawable/discuss_list_default_null"></com.example.newsapp.util.CircleImageView>
+
+        <com.astuetz.PagerSlidingTabStrip
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_toEndOf="@+id/imageView_top_head"
+            android:layout_toRightOf="@+id/imageView_top_head"
+            android:background="@android:color/white"
+            android:paddingRight="0dp"
+
+            />
+
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>
